@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "neverdie" do
-  version "0.2.0"
-  sha256 "8f0408c216ba414ef78ab6a05e69d6b7d0dd4007275e97b66f9f6de237ee95df"
+  version "0.2.1"
+  sha256 "4aa7482ee7d5b10b9ea291d753fbaddffe0803df292413a73e1aaf4ee3ac00c8"
 
   url "https://github.com/pillip/neverdie/releases/download/v#{version}/Neverdie.dmg"
   name "Neverdie"
